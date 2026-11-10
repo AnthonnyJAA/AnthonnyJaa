@@ -10,6 +10,9 @@ Me chamo Anthonny Jaaziel Alves Ribeiro de Oliveira, tenho 26 anos, sou de Santo
   <a href="https://react-ajotaflix-qmck5sg92-anthonny2.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/🚀_Projeto_Destaque-Ajotaflix_(React)-2ea44f?style=for-the-badge&logo=vercel&logoColor=white" alt="Ajotaflix Project"/>
   </a>
+  <a href="https://app-react-firebase-six.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🔥_Novo_Projeto-React_%2B_Firebase-orange?style=for-the-badge&logo=firebase&logoColor=white" alt="App React Firebase"/>
+  </a>
 </p>
 
 ---
