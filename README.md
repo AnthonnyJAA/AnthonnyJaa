@@ -13,6 +13,9 @@ Me chamo Anthonny Jaaziel Alves Ribeiro de Oliveira, tenho 26 anos, sou de Santo
   <a href="https://app-react-firebase-six.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/🔥_Novo_Projeto-React_%2B_Firebase-orange?style=for-the-badge&logo=firebase&logoColor=white" alt="App React Firebase"/>
   </a>
+  <a href="https://cripto-tracker-l7jvl6g9k-anthonny2.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/📈_Projeto-Cripto_Tracker-blue?style=for-the-badge&logo=vercel&logoColor=white" alt="Cripto Tracker"/>
+  </a>
 </p>
 
 ---
